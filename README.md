@@ -1,2 +1,1 @@
-# property-loan-demo_6
-This is a property loan demo application running on top of ethereum
+537bb4c43ad0526635abb15d5ba4df14a45ed86c
